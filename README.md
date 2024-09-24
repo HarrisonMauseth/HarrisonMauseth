@@ -31,6 +31,6 @@ Stay tuned to find out what I'm working on next!
 
 ## Recent Projects:
 In order of the complexity, here is a one sentence overview of the three personal projects I have been working on most recently.
-- **Pet Food Tracker** - *a full stack application that can answer the question "did you feed the dogs?" without ever having to ask*
-- **Network Connectivity Monitor** - *the easiest way to show your ISP that their new system isn't working is by bringing a database full of proof*
-- **Random Meal Generator** - *if you took a Venn diagram that has "ways to make life feel like a TTRPG", "ways to study OOP fundamentals", and "ways to get rid of food that's about to expire", the intersection would be this project*
+- [Pet Food Tracker](https://github.com/HarrisonMauseth/pet-food-tracker) - *a full stack application that can answer the question "did you feed the dogs?" without ever having to ask*
+- [Network Connectivity Monitor](https://github.com/HarrisonMauseth/network-connectivity-monitor) - *the easiest way to show your ISP that their new system isn't working is by bringing a database full of proof*
+- [Random Meal Generator](https://github.com/HarrisonMauseth/random-meal-generator) - *if you took a Venn diagram that has "ways to make life feel like a TTRPG", "ways to study OOP fundamentals", and "ways to get rid of food that's about to expire", the intersection would be this project*
